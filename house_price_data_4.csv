@@ -1,0 +1,18 @@
+size,bed room,Orientation,price,before_six_month
+100,3,Sud,345000,yes
+80,2,Ouest,280000,yes
+30,0,Nord,130000,no
+45,1,Est,140000,yes
+50,1,,170000,no
+60,1,Ouest,200000,no
+90,3,Est,330000,yes
+110,3,Est,400000,no
+154,5,Nord,550000,no
+70,2,Sud,260000,yes
+50,2,Est,240000,no
+38,1,Sud,180000,yes
+80,3,Ouest,280000,no
+50,1,Sud-Ouest,170000,yes
+43,1,Nord-Est,145000,yes
+60,2,,210000,no
+140,5,Nord,400000,yes
